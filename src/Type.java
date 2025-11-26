@@ -1,2 +1,6 @@
-public class Type {
+public enum Type {
+    FIRE,
+    WATER,
+    GRASS,
+    NORMAL
 }
